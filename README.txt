@@ -1,5 +1,5 @@
-Project title
+Nornir GNS3 Topology -  Network Automation 
 
-Author: Grace Hopper <grace@example.org>
+Author: Andrei Tarauceanu <andrei.tarnauceanu[at]student[dot]usv[dot]ro>
 
-This project is about...
+This project is about configuring an mpls network using nornir.
